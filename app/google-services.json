@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474612738333",
+    "project_id": "testreserve-6af1e",
+    "storage_bucket": "testreserve-6af1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474612738333:android:2b7cf07c0110a21cb819f4",
+        "android_client_info": {
+          "package_name": "com.example.ticketreserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474612738333-ee593vupsf67e298r5t0m83tjo9f0qme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticketreserve",
+            "certificate_hash": "04afffdd36ce6537978b432f37b6a75608f8ef9a"
+          }
+        },
+        {
+          "client_id": "474612738333-9n2lv8rc20d6i207vnh4mtt2cgstst4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9Mqy3PukVb9uSSPAb49qUrVdmMJjqQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474612738333-9n2lv8rc20d6i207vnh4mtt2cgstst4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
